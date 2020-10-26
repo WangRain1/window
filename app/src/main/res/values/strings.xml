@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">watchhome</string>
+    <string name="clear_tips">Notification clear</string>
+    <string name="no_ntf">No notifications</string>
+    <string name="ntf_hours">h</string>
+    <string name="ntf_minute">m</string>
+</resources>
